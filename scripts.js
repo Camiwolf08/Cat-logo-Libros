@@ -29,9 +29,9 @@ const books = [
     author: "Lewis Carroll para niños.", 
     theme: "Infantil", 
     image: "img/Lewis Carroll.png",
-    shortSynopsis: "-------------------------------------------------",
-    longSynopsis: "-------------------------------------------------------******************************",
-    fullSynopsis: "-----------***********************************////////////////////////**********************/",
+    shortSynopsis: "Las aventuras maravillosas de Alicia, escrita por Lewis Carroll.",
+    longSynopsis: "Narra la historia de una niña llamada Alicia, quien, aburrida de estar junto a su hermana, sigue a un conejo blanco que habla y lleva reloj. Al caer por un túnel, Alicia llega a un mundo fantástico lleno de personajes excéntricos, como el Gato de Cheshire, la Reina de Corazones y el Sombrerero Loco. A lo largo de su travesía, Alicia se enfrenta a situaciones absurdas, como cambiar de tamaño al beber pociones mágicas o comer pasteles, lo que la lleva a cuestionar la lógica y las reglas de ese extraño mundo.",
+    fullSynopsis: "Durante sus aventuras, Alicia se enfrenta a desafíos que le enseñan valiosas lecciones sobre la identidad y el crecimiento. En un juicio absurdo en el palacio de la Reina de Corazones, Alicia muestra valentía al desafiar la autoridad y cuestionar la injusticia. Al final, Alicia despierta de lo que parece ser un sueño, dejando abierta la interpretación de su aventura. La historia sigue siendo un clásico de la literatura infantil, celebrando la imaginación, el cuestionamiento de las normas y la curiosidad en un mundo donde lo absurdo es la regla.",
     downloadLink: "Libros/LewisCarroll.pdf", 
     driveLink: "https://drive.google.com/file/d/1Ati0_iUPXIbYDgPzmAkNx-OXbaqHTvjh/view?usp=sharing",
     pendingApproval: false // Flag de aprobación
